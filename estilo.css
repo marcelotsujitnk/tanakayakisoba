@@ -1,0 +1,27 @@
+.estiloFooter
+{
+	text-align:center;
+	margin-top:10px;
+}
+.estiloCabecalho
+{
+	background-color:rgba(255, 0, 0, 0.8);
+}
+
+
+ .carousel-inner img 
+ {
+    width: 100%;
+    height: 100%;
+ }
+ 
+
+.textoDiv
+{
+   position: absolute;
+   top: 50px;
+   left: 80px;
+   right:80px;
+   text-align: justify;
+   color:rgba(0,0,0);
+}
